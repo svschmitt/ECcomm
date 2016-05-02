@@ -6,6 +6,6 @@ To compile, simply run "make".
 To run the program, supply as an argument the serial device for the Arduino. For example,
   ./ECcomm /dev/ttyACM0
 
-Operating instructions are supplied in the program. One useful feature is E&C commands mapped to keystrokes. These are contained in the files ~/.ECcomm and ECcomm.cfg in the present working directory. A sample ECcomm.cfg file is supplied.
+Operating instructions are supplied in the program. One useful feature is E&C commands mapped to keystrokes. These are contained in the files .ECcomm in the user's home directory and ECcomm.cfg in the present working directory. A sample ECcomm.cfg file is supplied.
 
 Better documentation is on the to-do list.
